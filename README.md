@@ -52,7 +52,7 @@ Fullstack Developer · Data & AI Engineering · Systems Design
 **Tech stack**: `C++`, `Pybind11`, `Python`, `Pygame`, `MinMax`, `Game Heuristics`  
 🔗 [View project](https://github.com/Np93/GomokuAI) -->
 
----
+<!-- --- -->
 
 <!-- ### MatchApp – Real-Time Dating Platform
 <img src="assets/matchapp_demo.png" width="500"/>
@@ -62,7 +62,7 @@ Fullstack Developer · Data & AI Engineering · Systems Design
 **Tech stack**: `FastAPI`, `React`, `PostgreSQL`, `WebRTC`, `Tailwind CSS`, `Docker`  
 🔗 [View project](https://github.com/Np93/MatchApp) -->
 
----
+<!-- --- -->
 
 ## Technical Overview
 
