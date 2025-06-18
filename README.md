@@ -34,7 +34,7 @@ Fullstack Developer · Data & AI Engineering · Systems Design
 
 ## 🚀 Featured Projects
 
-### 🎮 Learn2Slither – Snake AI (Q-Learning)
+### Learn2Slither – Snake AI (Q-Learning)
 <img src="assets/learn2slither_demo.gif" width="500"/>
 
 > A self-learning Snake powered by Q-Learning with graphical interface and model export
@@ -44,27 +44,27 @@ Fullstack Developer · Data & AI Engineering · Systems Design
 
 ---
 
-### 🔬 Gomoku AI – Strategic Game with MinMax AI
+<!-- ### Gomoku AI – Strategic Game with MinMax AI
 <img src="assets/gomoku_demo.gif" width="500"/>
 
 > MinMax AI implemented in C++ with Pybind11 bridge and heuristics, fully playable UI
 
 **Tech stack**: `C++`, `Pybind11`, `Python`, `Pygame`, `MinMax`, `Game Heuristics`  
-🔗 [View project](https://github.com/Np93/GomokuAI)
+🔗 [View project](https://github.com/Np93/GomokuAI) -->
 
 ---
 
-### 💬 MatchApp – Real-Time Dating Platform
+<!-- ### MatchApp – Real-Time Dating Platform
 <img src="assets/matchapp_demo.png" width="500"/>
 
 > Matching, filters, chat, video calls – built from scratch with async API and modern UI
 
 **Tech stack**: `FastAPI`, `React`, `PostgreSQL`, `WebRTC`, `Tailwind CSS`, `Docker`  
-🔗 [View project](https://github.com/Np93/MatchApp)
+🔗 [View project](https://github.com/Np93/MatchApp) -->
 
 ---
 
-## 🧱 Technical Overview
+## Technical Overview
 
 | Area            | Skills |
 |------------------|--------|
