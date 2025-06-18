@@ -32,7 +32,7 @@ Fullstack Developer · Data & AI Engineering · Systems Design
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Learn2Slither – Snake AI (Q-Learning)
 <img src="assets/learn2slither_demo.gif" width="500"/>
@@ -40,7 +40,7 @@ Fullstack Developer · Data & AI Engineering · Systems Design
 > A self-learning Snake powered by Q-Learning with graphical interface and model export
 
 **Tech stack**: `Python`, `Pygame`, `Q-learning`, `Numpy`, `Poetry`  
-🔗 [View project](https://github.com/Np93/Learn2Slither)
+[View project](https://github.com/Np93/Learn2Slither)
 
 ---
 
@@ -50,7 +50,7 @@ Fullstack Developer · Data & AI Engineering · Systems Design
 > MinMax AI implemented in C++ with Pybind11 bridge and heuristics, fully playable UI
 
 **Tech stack**: `C++`, `Pybind11`, `Python`, `Pygame`, `MinMax`, `Game Heuristics`  
-🔗 [View project](https://github.com/Np93/GomokuAI) -->
+[View project](https://github.com/Np93/GomokuAI) -->
 
 <!-- --- -->
 
@@ -60,7 +60,7 @@ Fullstack Developer · Data & AI Engineering · Systems Design
 > Matching, filters, chat, video calls – built from scratch with async API and modern UI
 
 **Tech stack**: `FastAPI`, `React`, `PostgreSQL`, `WebRTC`, `Tailwind CSS`, `Docker`  
-🔗 [View project](https://github.com/Np93/MatchApp) -->
+[View project](https://github.com/Np93/MatchApp) -->
 
 <!-- --- -->
 
@@ -73,5 +73,11 @@ Fullstack Developer · Data & AI Engineering · Systems Design
 | **Frontend**      | `React`, `Tailwind`, `WebSocket` |
 | **AI / Data**     | `Q-learning`, `Computer Vision`, `Sklearn`, `OpenCV` |
 | **DevOps**        | `Docker`, `GitHub Actions`, `Poetry`, `Makefile` |
+
+---
+
+## Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Np93&layout=compact&langs_count=8&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
