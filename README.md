@@ -17,9 +17,15 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there, I'm Nicolas Hirzel 👋</h1>
 
-## GitHub Actions Demo
+## GitHub Actions in Action
+
+> Each time I push code, this project runs an automatic CI pipeline using [GitHub Actions](https://docs.github.com/en/actions).
 
 ![CI Status](https://github.com/Np93/Np93/actions/workflows/ci.yml/badge.svg)
+
+<p align="center">
+  <img src="assets/github_actions_demo.gif" width="600" alt="GitHub Actions demo in terminal" />
+</p>
 
 <p align="center">
 Fullstack Developer · Data & AI Engineering · Systems Design
