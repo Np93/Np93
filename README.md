@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi there, I'm Nicolas Hirzel 👋</h1>
+
+## 🚀 GitHub Actions Demo
+
+![CI Status](https://github.com/Np93/Np93/actions/workflows/ci.yml/badge.svg)
+
 <p align="center">
 Fullstack Developer · Data & AI Engineering · Systems Design
 </p>
@@ -28,6 +33,9 @@ Fullstack Developer · Data & AI Engineering · Systems Design
   <img src="https://img.shields.io/badge/PostgreSQL-SQL-blue?logo=postgresql" />
   <img src="https://img.shields.io/badge/Docker-DevOps-blue?logo=docker" />
   <img src="https://img.shields.io/badge/WebSocket-RealTime-blue?logo=websocket" />
+  <img src="https://img.shields.io/badge/GitHub-Version%20Control-181717?logo=github" />
+  <img src="https://img.shields.io/badge/C-LowLevel-blue?logo=c" />
+  <img src="https://img.shields.io/badge/Poetry-PackageManager-60A5FA?logo=python" />
 </p>
 
 ---
