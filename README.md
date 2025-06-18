@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there, I'm Nicolas Hirzel 👋</h1>
 
-## 🚀 GitHub Actions Demo
+## GitHub Actions Demo
 
 ![CI Status](https://github.com/Np93/Np93/actions/workflows/ci.yml/badge.svg)
 
