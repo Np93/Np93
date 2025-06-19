@@ -1,5 +1,5 @@
 
-<!--
+<!-- 
 **Np93/Np93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
 
 
 <h1 align="center">Hi there, I'm Nicolas Hirzel 👋</h1>
@@ -62,15 +62,15 @@ Fullstack Developer · Data & AI Engineering · Systems Design
 
 <!-- --- -->
 
-<!-- ### MatchApp – Real-Time Dating Platform
-<img src="assets/matchapp_demo.png" width="500"/>
+### Matcha – Real-Time Dating Platform
+<img src="assets/matcha_demo.png" width="500"/>
 
-> Matching, filters, chat, video calls – built from scratch with async API and modern UI
+> Matching, filters, chat, video calls – built from scratch with async API and an intuitive, modern UI optimized for desktop and mobile.
 
 **Tech stack**: `FastAPI`, `React`, `PostgreSQL`, `WebRTC`, `Tailwind CSS`, `Docker`  
-[View project](https://github.com/Np93/MatchApp) -->
+[View project](https://github.com/Np93/Matcha) -->
 
-<!-- --- -->
+-- ---
 
 ## Technical Overview
 
