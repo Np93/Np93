@@ -63,7 +63,7 @@ Fullstack Developer · Data & AI Engineering · Systems Design
 <!-- --- -->
 
 ### Matcha – Real-Time Dating Platform
-<img src="assets/matcha_demo.png" width="500"/>
+<img src="assets/matcha_demo.gif" width="500"/>
 
 > Matching, filters, chat, video calls – built from scratch with async API and an intuitive, modern UI optimized for desktop and mobile.
 
