@@ -86,6 +86,6 @@ Fullstack Developer · Data & AI Engineering · Systems Design
 
 ## Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Np93&layout=compact&langs_count=10&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Np93&layout=compact&langs_count=12&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
